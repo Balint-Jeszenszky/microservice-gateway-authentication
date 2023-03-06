@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "Gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "Nest",
+			"path": "nest-passport"
+		},
+		{
+			"name": "Spring",
+			"path": "spring-security"
+		},
+		{
+			"name": "Mock login",
+			"path": "mock-login"
+		},
+		{
+			"name": "Root",
+			"path": "."
+		}
+	]
+}
